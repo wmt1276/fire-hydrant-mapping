@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-09T00:21:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034640644",
+        "colour": "yellow",
+        "emergency": "fire_hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8635753,
+          39.5850025
+        ]
+      },
+      "id": "node/11034640644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034768555",
+        "colour": "yellow",
+        "emergency": "fire_hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8654821,
+          39.5849717
+        ]
+      },
+      "id": "node/11034768555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957869",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8190295,
+          39.5840675
+        ]
+      },
+      "id": "node/11034957869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957870",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8158285,
+          39.5801775
+        ]
+      },
+      "id": "node/11034957870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957871",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.857569,
+          39.5839293
+        ]
+      },
+      "id": "node/11034957871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957872",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8139758,
+          39.5788782
+        ]
+      },
+      "id": "node/11034957872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957873",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8149214,
+          39.5795121
+        ]
+      },
+      "id": "node/11034957873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957874",
+        "colour": "yellow",
+        "emergency": "fire_hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8601523,
+          39.5838903
+        ]
+      },
+      "id": "node/11034957874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957875",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.856073,
+          39.5840999
+        ]
+      },
+      "id": "node/11034957875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957876",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8340304,
+          39.5838445
+        ]
+      },
+      "id": "node/11034957876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957877",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8480377,
+          39.5838787
+        ]
+      },
+      "id": "node/11034957877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957878",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8171289,
+          39.5810356
+        ]
+      },
+      "id": "node/11034957878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957879",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8280058,
+          39.5841287
+        ]
+      },
+      "id": "node/11034957879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957880",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8534729,
+          39.5841137
+        ]
+      },
+      "id": "node/11034957880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957881",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8374295,
+          39.5841282
+        ]
+      },
+      "id": "node/11034957881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957882",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8188242,
+          39.5826726
+        ]
+      },
+      "id": "node/11034957882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957883",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8609293,
+          39.5840575
+        ]
+      },
+      "id": "node/11034957883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957884",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8179438,
+          39.5816241
+        ]
+      },
+      "id": "node/11034957884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957885",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8187443,
+          39.5843613
+        ]
+      },
+      "id": "node/11034957885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957886",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8619053,
+          39.5850609
+        ]
+      },
+      "id": "node/11034957886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957887",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8301213,
+          39.5840309
+        ]
+      },
+      "id": "node/11034957887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034957888",
+        "colour": "yellow",
+        "couplings": "3",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8258442,
+          39.5841677
+        ]
+      },
+      "id": "node/11034957888"
+    }
+  ]
+}
