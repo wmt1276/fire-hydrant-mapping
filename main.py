@@ -30,7 +30,9 @@ def main():
     base = roads.plot(color="gray", zorder=layers)
     for threshold in range(layers):
         base = plot(thresholds[threshold], hydrant_series, base, threshold)
-
+        
+    plt.xlim([590100, 602969])
+    plt.ylim([4375357, 4386894])
     plt.show()
 
 if __name__ == "__main__":
